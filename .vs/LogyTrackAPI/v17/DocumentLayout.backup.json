@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\infrastructure\\data\\products\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\infrastructure\\data\\products\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\infrastructure\\data\\drivers\\idriverservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\infrastructure\\data\\drivers\\idriverservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Models\\Vehicle.cs",
+              "RelativeToolTip": "LogyTrackAPI\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:20:38.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDriverServices.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "RelativeToolTip": "LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:16:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "RelativeToolTip": "LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:16:26.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

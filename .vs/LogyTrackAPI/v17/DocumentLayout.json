@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|c:\\users\\seema-pc\\.nuget\\packages\\af.dataaccessor\\2.0.2\\contentfiles\\any\\net6.0\\afdataaccessor.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\infrastructure\\data\\products\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\infrastructure\\data\\products\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|d:\\dotnet projects\\logytrackapi\\logytrackapi\\infrastructure\\data\\drivers\\idriverservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450DF6FF-9002-49F1-B926-1111AC37363F}|LogyTrackAPI\\LogyTrackAPI.csproj|solutionrelative:logytrackapi\\infrastructure\\data\\drivers\\idriverservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\appsettings.json",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\appsettings.json",
+              "RelativeToolTip": "LogyTrackAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T11:35:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AFDataAccessor.json",
+              "DocumentMoniker": "C:\\Users\\Seema-PC\\.nuget\\packages\\af.dataaccessor\\2.0.2\\contentFiles\\any\\net6.0\\AFDataAccessor.json",
+              "ToolTip": "C:\\Users\\Seema-PC\\.nuget\\packages\\af.dataaccessor\\2.0.2\\contentFiles\\any\\net6.0\\AFDataAccessor.json [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T11:35:02.034Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\Program.cs",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Program.cs",
+              "RelativeToolTip": "LogyTrackAPI\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:34:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Models\\Vehicle.cs",
+              "RelativeToolTip": "LogyTrackAPI\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:20:38.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDriverServices.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "RelativeToolTip": "LogyTrackAPI\\Infrastructure\\Data\\Drivers\\IDriverServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:16:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "RelativeDocumentMoniker": "LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "ToolTip": "D:\\DOTNET PROJECTS\\LogyTrackAPI\\LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "RelativeToolTip": "LogyTrackAPI\\Infrastructure\\Data\\Products\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:16:26.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
